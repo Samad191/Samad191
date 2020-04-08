@@ -1,0 +1,47 @@
+Img {
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.icons {
+    margin: 5px;
+    margin-left: 10px;
+}
+
+.cart {
+    /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+  margin-left: 165px;
+  margin-top: 20px;
+} 
+
+.congress {
+    
+    /* margin-left: 1000px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.dragon {
+  
+  color: gold;
+ 
+}
+
+.A {
+  color: salmon;
+  margin-left: 670px;
+}
+
+.B {
+  margin-left: 680px;
+}
+
+.C {
+  font-size:20px;
+  margin-left: 70px;
+}

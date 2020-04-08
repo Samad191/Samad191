@@ -1,0 +1,15 @@
+
+.login {
+  background-color: blue;
+  min-height: 100px;
+  
+  width: 700px;
+  /* margin: 10px auto; */
+  border-radius: 20px;
+  margin-top: 150px;
+  margin-left: 600px;
+}
+
+.gift {
+  margin-left: 50px;
+}

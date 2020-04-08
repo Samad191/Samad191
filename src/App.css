@@ -1,0 +1,72 @@
+body {
+  background-color: white;
+}
+
+.App {
+  background-color: gold;
+  /* min-height: 500px; */
+  height: 480px;
+  width: 1045px;
+  /* margin: 10px auto; */
+  border-radius: 20px;
+  /* margin-left: 150px; */
+  margin: auto;
+}
+
+
+/* #ToDo-Form input {
+  background-color: black;
+  border: 0;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 15px;
+  border-radius: 10px;
+  color:white;
+  
+} */
+
+/* #ToDo-Form input::placeholder {
+  color: rgb(255, 255,255,0.5);
+} */
+/* 
+#ToDo-Form input:focus,#ToDo-Form button:focus{
+  outline: none;
+} */
+
+.button {
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color: black;
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+  /* margin-left: 120px; */
+  margin-left: 150px;
+}
+
+.App2 {
+  background-color:black;
+  height: 160px;
+  
+  width: 600px;
+  /* margin: 10px auto; */
+  border-radius: 20px;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.App3 {
+  background-color: lawngreen;
+  height: 100px;
+  
+  width: 500px;
+  /* margin: 10px auto; */
+  border-radius: 20px;
+
+}
