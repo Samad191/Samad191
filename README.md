@@ -26,10 +26,12 @@ I’m a **Full Stack Web3 Engineer** building decentralized applications across 
   A cross-border payment solution leveraging decentralized, crypto-backed custodians to facilitate international transactions. The tokenomics are designed to reduce costs and increase the efficiency of global payments.
 
 - 🔐 [Metadot]
+
   Developed a crypto wallet browser extension for the Polkadot blockchain that enables seamless facilitation of
   transactions across parachains and secure management of private keys.
 
 - 🎨 [Ako]
+
   A creative platform where users can generate custom GIFs from prompts, mutate them using AI, and instantly share to Twitter.  
  
 ---
