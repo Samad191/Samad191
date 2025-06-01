@@ -32,7 +32,7 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
 ---
 
-## Expertise
+## 🧩 Expertise
 
 🛠️ Full Stack dApp Development — Frontend & backend integration for decentralized applications
 
