@@ -19,7 +19,6 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 
