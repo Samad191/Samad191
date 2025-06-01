@@ -16,11 +16,20 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 ![React](https://img.shields.io/badge/-React-20232a?logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
+
 
 **Web3 & Blockchain:**
 ![Solana](https://img.shields.io/badge/-Solana-3a0ca3?logo=solana)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3c3c3d?logo=ethereum)
+![web3.js](https://img.shields.io/badge/-web3.js-f6c915?logo=ethereum&logoColor=black)
+![Solana Web3.js](https://img.shields.io/badge/-solana--web3.js-3a0ca3?logo=solana&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white)
 
 ---
 
@@ -39,3 +48,24 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 ---
 
 > ⚡ Building the decentralized future, one line of code at a time.
+
+
+🛠️ Full Stack dApp Development — Frontend & backend integration for decentralized applications
+
+🔐 Smart Contract Development — ERC-20, ERC-721, ERC-1155, custom Solidity & Rust contracts
+
+🌉 Cross-Chain Integration — Bridging assets and logic across EVM chains and Solana
+
+💼 Wallet Integration — Phantom, MetaMask, WalletConnect, and custom wallet solutions
+
+📦 API & Backend Engineering — Scalable REST/GraphQL APIs using Node.js, NestJS
+
+🧪 Web3 Authentication — Signature-based login systems, session security
+
+💸 DeFi Protocols & Tokenomics — Building and integrating staking, swaps, and token utilities
+
+🎨 UI/UX Engineering — Tailwind CSS, GSAP animations, and responsive web design
+
+🤖 AI Agent Integration — Embedding LLM-powered agents into dApps for automation and on-chain reasoning
+
+📚 Blockchain Research — Exploring new protocols, token models, and ecosystem trends
