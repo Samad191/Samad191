@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# Abdul Samad
 
 I’m a **Full Stack Web3 Engineer** building decentralized applications across Ethereum, Solana, and other EVM-compatible chains.
 
