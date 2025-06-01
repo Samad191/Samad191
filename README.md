@@ -33,6 +33,26 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
 ---
 
+## Expertise
+
+🛠️ Full Stack dApp Development — Frontend & backend integration for decentralized applications
+
+🌉 Cross-Chain Integration — Bridging assets and logic across EVM chains and Solana
+
+💼 Wallet Integration — Phantom, MetaMask, WalletConnect, and custom wallet solutions
+
+📦 API & Backend Engineering — Scalable REST/GraphQL APIs using Node.js, NestJS
+
+🧪 Web3 Authentication — Signature-based login systems, session security
+
+💸 DeFi Protocols & Tokenomics — Building and integrating staking, swaps, and token utilities
+
+🤖 AI Agent Integration — Embedding LLM-powered agents into dApps for automation and on-chain reasoning
+
+📚 Blockchain Research — Exploring new protocols, token models, and ecosystem trends
+
+---
+
 ## 🚀 Projects
 
 - 💸 [Midl]  
@@ -48,24 +68,3 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 ---
 
 > ⚡ Building the decentralized future, one line of code at a time.
-
-
-🛠️ Full Stack dApp Development — Frontend & backend integration for decentralized applications
-
-🔐 Smart Contract Development — ERC-20, ERC-721, ERC-1155, custom Solidity & Rust contracts
-
-🌉 Cross-Chain Integration — Bridging assets and logic across EVM chains and Solana
-
-💼 Wallet Integration — Phantom, MetaMask, WalletConnect, and custom wallet solutions
-
-📦 API & Backend Engineering — Scalable REST/GraphQL APIs using Node.js, NestJS
-
-🧪 Web3 Authentication — Signature-based login systems, session security
-
-💸 DeFi Protocols & Tokenomics — Building and integrating staking, swaps, and token utilities
-
-🎨 UI/UX Engineering — Tailwind CSS, GSAP animations, and responsive web design
-
-🤖 AI Agent Integration — Embedding LLM-powered agents into dApps for automation and on-chain reasoning
-
-📚 Blockchain Research — Exploring new protocols, token models, and ecosystem trends
