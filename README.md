@@ -8,12 +8,11 @@ I’m a **Full Stack Web3 Engineer** building decentralized applications across 
 
 **Languages & Frameworks:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
 
 **Web3 & Blockchain:**
 ![Solana](https://img.shields.io/badge/-Solana-3a0ca3?logo=solana)
