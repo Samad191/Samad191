@@ -25,8 +25,8 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
 
 **Web3 & Blockchain:**
-![Solana](https://img.shields.io/badge/-Solana-3a0ca3?logo=solana)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3c3c3d?logo=ethereum)
+![Solana](https://img.shields.io/badge/-Solana-3a0ca3?logo=solana)
 ![web3.js](https://img.shields.io/badge/-web3.js-f6c915?logo=ethereum&logoColor=black)
 ![Solana Web3.js](https://img.shields.io/badge/-solana--web3.js-3a0ca3?logo=solana&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white)
