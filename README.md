@@ -7,7 +7,10 @@ I’m a **Full Stack Web3 Engineer** building decentralized applications across 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
 ![Next](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
