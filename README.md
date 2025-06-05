@@ -1,6 +1,6 @@
 # Abdul Samad
 
-Hi, I'm Abdul Samad — a passionate **Full Stack Web3 Engineer** with 3+ years of experience building scalable, user-focused decentralized applications. I specialize in designing and developing blockchain-integrated products across Ethereum, Solana, and other EVM-compatible chains.
+Hi, I'm Abdul Samad — a passionate **Full Stack Web3 Engineer** with 4 years of experience building scalable, user-focused decentralized applications. I specialize in designing and developing blockchain-integrated products across Ethereum, Solana, and other EVM-compatible chains.
 Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seamless cross-chain tools, I build practical solutions that move the web3 space forward.
 
 ---
